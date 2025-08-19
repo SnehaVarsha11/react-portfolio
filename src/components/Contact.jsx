@@ -26,7 +26,7 @@ const Contact = () => {
             <p className="text-base md:text-lg">I&apos;m open to discussing software development projects or partnership opportunities and eager to build a strong professional network. Let&apos;s connect and explore how we can collaborate!</p>
             <div className='mb-4 mt-8'>
                 <FaEnvelope className='inline-block text-green-400 mr-2' />
-                <a href="mailto:chandrashekarreddyv2001@gmail.com" className='hover:underline text-green-400'>
+                <a href="mailto:nuthalapatisnehavarsha11@gmail.com" className='hover:underline text-green-400'>
                 nuthalapatisnehavarsha11@gmail.com
                 </a>
             </div>
